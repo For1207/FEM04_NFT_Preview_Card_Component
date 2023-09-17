@@ -67,10 +67,10 @@ a:hover, a h1:hover {
   width: 19.44rem;
   border-radius: 0.83rem;
   padding: 1.33rem;
+  position: relative;
 }
 
 .bgn-image-container {
-  background-color: var(--cyan);
   position: relative;
 }
 
