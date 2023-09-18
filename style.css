@@ -69,9 +69,8 @@ a:hover, a h1:hover {
   padding: 1.33rem;
 }
 
-a.bgn-image-container {
+.bgn-image-container {
   position: relative;
-  display: block;
 }
 
 .bgn-image-container, .bgn-image, .overlay {
