@@ -103,6 +103,7 @@ a:hover, a h1:hover {
 
 .overlay:hover {
   opacity: 1;
+  transition: opacity 0.5s;
 }
 
 .description {
